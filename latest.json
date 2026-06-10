@@ -1,10 +1,10 @@
 {
   "app_id": "roosterplanner",
   "channel": "stable",
-  "version": "2026.06.07.21",
-  "build": 21,
-  "commit": "aac7ef9",
-  "published_at": "2026-06-07T19:44:44Z",
-  "asset_url": "https://github.com/killafro-dev/roosterplanner-releases/releases/download/v2026.06.07.21/Roosterplanner-Portable.zip",
-  "sha256": "8c10f89731db68fa2f3136e63773f3c1965c93ceac759f0a3ad3761d88926796"
+  "version": "2026.06.10.22",
+  "build": 22,
+  "commit": "14215fc",
+  "published_at": "2026-06-10T16:51:11Z",
+  "asset_url": "https://github.com/killafro-dev/roosterplanner-releases/releases/download/v2026.06.10.22/Roosterplanner-Portable.zip",
+  "sha256": "7d6e2ff4283ab2a77cd0d4eb13d19be8ac3aac152ed6577e7f76852eedbe9c65"
 }
